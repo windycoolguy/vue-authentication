@@ -1,4 +1,6 @@
 # vue-authentication
-# Start
- cd ultimate-startup-battle
- npm run dev
+# Install
+$ npm install -g @vue/cli
+$ npm install -g @vue/cli-init
+$ vue init webpack vue-router-auth
+ 
